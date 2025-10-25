@@ -1,5 +1,5 @@
 🏡 House Price Prediction App
-This project builds a simple linear regression model to predict house prices based on property    size (in square feet). 
+This project builds a SIMPLE LINEAR REGRESSION model to predict house prices based on property    size (in square feet). 
 
 It includes both a training pipeline and an interactive Streamlit web app for real-time predictions.
 
